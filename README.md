@@ -1,7 +1,7 @@
 [![MasterHead](https://a.sfdcstatic.com/content/dam/www/ocms-backup/assets/images/hub/analytics/bi-software/all-about-big-data-analytics-tools-header.jpg)]
 <h1 align="center">Hi 👋, I'm Anoop E R</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."">
+(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anooper199" alt="anooper199" /></a> </p>
 
