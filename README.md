@@ -1,11 +1,10 @@
+![MasterHead](https://ffind.com/app/uploads/2021/07/Data-collection-in-quantitative-research-4.jpg)
 <h1 align="center">Hi 👋, I'm Anoop E R</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anooper1999" alt="anooper1999" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 - 📫 How to reach me **anoopravi354213@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
